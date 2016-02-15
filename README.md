@@ -12,6 +12,8 @@
 
 **你们的后端代码有测试吗?** 没有请 return false
 
+**工作代码相关事项用 QQ 交流** 是请 return false
+
 **你们是以盈利为主要目的吗?** 是请 return false
 
 ## License
